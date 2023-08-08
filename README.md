@@ -7,8 +7,6 @@ The shareholder structure is quite concentrated with Power Generation Corporatio
 
 PPC currently owns 1 associate company and 2 power plants. In which, both Pha Lai 1 and Pha Lai 2 plants are in operation, producing and trading electricity - this is the main business activity of PPC. Associate company Hai Phong Thermal Power Joint Stock Company with the ownership rate of 29.02%
 
-Pha Lai Thermal Power Joint Stock Company (PPC) was established on April 26, 1982. On January 26, 2007, shares of Pha Lai Thermal Power Joint Stock Company were officially traded on the Ho Chi Minh City Stock Exchange with a floor price of 105,000 VND. PPC is a company specializing in the production of Electricity from natural coal fuel.
-
 1. Investment thesis
 * Overview the prospects, outstanding features of the business when considering investment, investment risk
 2. Business overview
